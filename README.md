@@ -1,0 +1,2 @@
+# fortofolio-intan
+tugas uts
